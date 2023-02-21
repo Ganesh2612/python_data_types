@@ -1,0 +1,5 @@
+a=7597507
+b='fifgigtghhkl'
+c=906790.669
+d=True
+print(a,b,c,d)
